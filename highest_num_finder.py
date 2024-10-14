@@ -1,0 +1,1 @@
+#Using "If Statement Only", find and print the highest number entered.
